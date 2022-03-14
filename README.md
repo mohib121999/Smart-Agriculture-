@@ -1,0 +1,2 @@
+# Smart-Agriculture-
+A mesure que le monde qui nous entoure tend à être toujours plus connecté, beaucoup de nouveaux systèmes intelligents apparaissent. Cette révolution du numérique se traduit par la mise à disposition auprès du particulier de plusieurs outils connectés. Le principal objectif de ces objets est d’obtenir l’ensemble des informations que l’utilisateur cherche en quelques secondes seulement.
